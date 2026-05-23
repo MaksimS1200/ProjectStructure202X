@@ -3,9 +3,13 @@
 ## Содержание
 
 ## Структура проекта (Лр 2.1)
-<img width="636" height="435" alt="image" src="https://github.com/user-attachments/assets/407db0d9-2ed8-4208-bed5-a5c63b129572" />
+<img width="697" height="247" alt="image" src="https://github.com/user-attachments/assets/1f84e05a-8ae3-414b-83df-8ec6b242415c" />
+Файл содержит описание проекта, перечень артефактов проекта, перечень протоколов проекта и структуру каждого документа
 
 ## Структура проекта (Лр 2.2)
 <img width="429" height="725" alt="image" src="https://github.com/user-attachments/assets/d09cd721-47a9-4c48-84d1-bf56a0fa6c15" />
+Файл содержит список модулей, связи и схему
 
 ## Структура проекта (Лр 2.3)
+<img width="636" height="435" alt="image" src="https://github.com/user-attachments/assets/407db0d9-2ed8-4208-bed5-a5c63b129572" />
+Файл содержит структуру проекта, таблицу файловой системы, назначение каждого элемента, модели данных и логику работы приложения
